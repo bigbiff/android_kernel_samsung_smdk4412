@@ -14,11 +14,7 @@
  */
 #include "ssp.h"
 
-<<<<<<< HEAD
 #define SSP_FIRMWARE_REVISION		92800
-=======
-#define SSP_FIRMWARE_REVISION		92600
->>>>>>> 37a195e... sensorhub: Fix firmware mislabeling and version checking
 
 /* Bootload mode cmd */
 #define BL_FW_NAME			"ssp.fw"
